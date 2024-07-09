@@ -44,12 +44,23 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jiadalfahmid/jiadalfahmid/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/usernameisenter/usernameisenter/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 height=170 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jiadalfahmid&count_private=true&theme=jolly&border_radius=10" alt="streak stats"/>
+  <img width=390 height=170 src="https://github-readme-stats-salesp07.vercel.app/api?username=jiadalfahmid&count_private=true&show_icons=true&theme=jolly&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jiadalfahmid&hide=HTML&langs_count=8&layout=compact&theme=jolly&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
